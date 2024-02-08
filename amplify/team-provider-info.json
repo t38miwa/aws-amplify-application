@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "awsamplifyapplicatioda772486": {}
+      },
+      "api": {
+        "awsamplifyapplicatio": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
